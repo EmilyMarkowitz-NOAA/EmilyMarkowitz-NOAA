@@ -6,8 +6,6 @@
 
 ### Groundfish Assessment Program's Eastern Bering Sea Survey Group
 
-### Hi there 👋
-
 Learn more about me! [Find my website here.](https://emilyhmarkowitz.github.io/emilyhmarkowitz/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EmilyMarkowitz-NOAA&show_icons=true)
