@@ -6,7 +6,26 @@
 
 ### Groundfish Assessment Program's Eastern Bering Sea Survey Group
 
+### Hi there 👋
+
 Learn more about me! [Find my website here.](https://emilyhmarkowitz.github.io/emilyhmarkowitz/)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=EmilyMarkowitz-NOAA&show_icons=true)
+
+<!--
+**EmilyMarkowitz-NOAA/EmilyMarkowitz-NOAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 # All work posted on this GitHub is subject to NOAA Fisheries' Standards
 
