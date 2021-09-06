@@ -15,6 +15,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EmilyMarkowitz-NOAA&show_icons=true)
 
 <!--
+
+More notes on how to do this, here: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
+
 **EmilyMarkowitz-NOAA/EmilyMarkowitz-NOAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
