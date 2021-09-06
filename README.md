@@ -1,5 +1,8 @@
 # Emily (Em) Markowitz
 
+![](https://visitor-badge.laobi.icu/badge?page_id=EmilyMarkowitz-NOAA.EmilyMarkowitz-NOAA)
+[![Github](https://img.shields.io/github/followers/EmilyMarkowitz-NOAA?label=Follow&style=social)](https://github.com/EmilyMarkowitz-NOAA)
+
 ### Research Fisheries Biologist 
 
 ### Alaska Fisheries Science Center
@@ -10,11 +13,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=EmilyMarkowitz-NOAA&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyMarkowitz-NOAA)
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=EmilyMarkowitz-NOAA.EmilyMarkowitz-NOAA)
-[![Github](https://img.shields.io/github/followers/EmilyMarkowitz-NOAA?label=Follow&style=social)](https://github.com/EmilyMarkowitz-NOAA)
-
 
 <!--
 **EmilyMarkowitz-NOAA/EmilyMarkowitz-NOAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
