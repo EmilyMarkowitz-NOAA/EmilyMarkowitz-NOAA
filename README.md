@@ -1,7 +1,7 @@
 # Emily (Em) Markowitz
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=EmilyMarkowitz-NOAA.EmilyMarkowitz-NOAA)
-[![Github](https://img.shields.io/github/followers/EmilyMarkowitz-NOAA?label=Follow&style=social)](https://github.com/EmilyMarkowitz-NOAA)
+![Github](https://img.shields.io/github/followers/EmilyMarkowitz-NOAA?label=Follow&style=social)
 
 ### Research Fisheries Biologist 
 
